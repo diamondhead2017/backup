@@ -1,0 +1,12 @@
+package com.internousdev.login.dao;
+
+import com.internousdev.login.dto.LoginDTO;
+
+public class LoginDAO {
+
+	public LoginDTO select(String name, String password) {
+		// TODO 自動生成されたメソッド・スタブ
+		return null;
+	}
+
+}
