@@ -1,0 +1,7 @@
+package com.internousdev.webproj.action;
+
+import com.opensymphony.xwrok2.ActionSuport;
+
+public class InquiryCompleteAction {
+
+}
