@@ -3,7 +3,7 @@ package com.internousdev.webproj3.action;
 import com.internousdev.webproj3.dao.TestDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
-public class TestAction exetends ActionSupport {
+public class TestAction extends ActionSupport {
 
 	private String username;
 
@@ -21,6 +21,14 @@ public class TestAction exetends ActionSupport {
 	public String getUsername(){
 		return username;
 	}
-	public void
+	public void setUsername(String username){
+		this.username=username;
+	}
+	public String getPassword(){
+		return password;
+	}
+	public void getPassword(String password){
+		this.password=password;
+	}
 
 }
