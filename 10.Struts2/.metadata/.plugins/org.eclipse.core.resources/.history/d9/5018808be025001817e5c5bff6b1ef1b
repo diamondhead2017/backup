@@ -1,0 +1,15 @@
+package Com.internousdev.webproj4.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+jmport Com.internoudev.webproj4.dto.LoginDTO;
+import Com.internoudev.webproj4.util.DBConnector;
+
+public class LoginDAO {
+
+}

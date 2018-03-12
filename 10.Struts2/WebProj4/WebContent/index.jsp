@@ -5,6 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="./css/style.css">
 <title>INDEX</title>
 </head>
 <body>
@@ -12,6 +13,10 @@
 <s:form action="HelloStrutsAction">
   <s:submit value="HelloStruts"/>
 </s:form>
+
+<form action="WelcomeAction">
+  <s:submit value="Welcome"/>
+</form>
 
 </body>
 </html>
