@@ -1,0 +1,4 @@
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-hosaka\backup\0.ê¨â ï®\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3216535068.index
+2795787554.index
+2055351946.index
