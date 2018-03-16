@@ -12,6 +12,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\testuser\Desktop\workspace\workspase-hosaka\backup\9.ログイン認証"/>
 			<item value="C:\Users\testuser\Desktop\workspace\workspace-hosaka\backup\9.ログイン認証\Login3"/>
 			<item value="C:\Users\testuser\Desktop\workspace\workspace-hosaka\backup\8.Servlet\HelloServlet"/>
 		</list>
